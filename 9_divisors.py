@@ -1,3 +1,6 @@
+# this code counts the number of numbers having exactly 9 divisors upto 'm' numbers
+
+
 import math
 
 
